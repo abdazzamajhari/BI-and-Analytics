@@ -1,8 +1,8 @@
 # BI-and-Analytics
 Business Intelligence and Analytics
 
-Video Tutorial: https://www.youtube.com/watch?v=En6vQvhUlDE&ab_channel=AbdulAzzamAjhari
-Question: 20211029025438_COMP8047041_FIN_RCQuestion.pdf
+Video Tutorial: https://www.youtube.com/watch?v=En6vQvhUlDE&ab_channel=AbdulAzzamAjhari<br>
+Question: 20211029025438_COMP8047041_FIN_RCQuestion.pdf<br>
 Answer: uas_compressed.pdf
 
 This repositories discuss about:
